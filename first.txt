@@ -1,7 +1,2 @@
-class HelloWorld{
-public satic void main(String[] args){
-System.out.println("hello world 2");
-System.out.println("hello world 3");
-}
-}
-hiii
+print("hello")
+this is py
